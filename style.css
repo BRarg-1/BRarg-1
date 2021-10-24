@@ -1,6 +1,6 @@
 body {
-  background-color: rgb(57, 169, 219);
-  font-family: Rubik, Arial;
+  background-color: rgb(00, 00, 00);
+  font-family: Serif, Monospace;
 }
 
 form {
@@ -22,7 +22,7 @@ h1 {
   width: 80%;
   margin: 3% auto;
   height: 95vh;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(00, 00, 00, 0.9);
   border-radius: 40px;
 }
 
